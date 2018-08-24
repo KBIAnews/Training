@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [KBIA Digital Training](README.md)
+* [Posting Your Newscast Online](posting-your-newscast-online.md)
 
