@@ -1,10 +1,3 @@
----
-description: >-
-  After you've finished broadcasting your newscast on air, you'll need to post a
-  version online that will be used by KBIA's tools to show stories on the web
-  site, podcast feeds, and smart speakers.
----
-
 # Posting Your Newscast Online
 
 ## Overview
