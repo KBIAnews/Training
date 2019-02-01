@@ -6,4 +6,5 @@
 ## Graphic Standards
 
 * [Introduction: KBIA's Graphic Standards Manual](graphic-standards/introduction-kbias-graphic-standards-manual.md)
+* [Illustration and Layout Styles](graphic-standards/illustration-and-layout-styles.md)
 

@@ -31,7 +31,7 @@ In the drop-down menu for "format," choose "MP3 Audio."
 
 You settings should look like this. If they don't change them. 
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%284%29.png)
 
 When you're ready, click "OK" to save the file and close Adobe Audition.
 
@@ -47,7 +47,7 @@ Because of this, the first step you should always take is looking for the story 
 
 To just search on KBIA's web site, add site:kbia.org to the end of your Google search. For example, here, I'm looking for a story I think may have been posted earlier today about solar energy. Take a look at how I write my search and the two places a story is likely to appear:
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/image%20%282%29.png)
 
 If you find a story this way, open it and leave that browser window or tab minimized - you'll need the story's headline and a link to it in a few minutes.
 
@@ -105,7 +105,7 @@ We don't necessarily have rights to the Missourian's photos, so you'll have to u
 
 Here's an example of how that should look inside Core Publisher's post editor.
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%283%29.png)
 
 And here's what the final story looked like:
 
@@ -176,21 +176,21 @@ To add that bulleted list, click the button that looks like a series of dots and
 
 After you've typed in the headlines, you can go back and add the links. Select each headline, then use the little chain icon for that part:
 
-![The chain icon \(circled\) creates a link. The broken chain to its right removes that link.](.gitbook/assets/image%20%284%29.png)
+![The chain icon \(circled\) creates a link. The broken chain to its right removes that link.](.gitbook/assets/image%20%285%29.png)
 
 Click the "Audio" button on that same toolbar when you're ready to insert your audio. You don't need to include anything in the description field:
 
-![When you add your audio, just leave this description blank and click &quot;save.&quot;](.gitbook/assets/image%20%287%29.png)
+![When you add your audio, just leave this description blank and click &quot;save.&quot;](.gitbook/assets/image%20%288%29.png)
 
 Now, let's make sure this all appears as one unit on the home page on KBIA. to do that, position your cursor at the very bottom of the story, then click the button that looks like a dotted line through a bunch of text:
 
-![This button inserts the &quot;break&quot; that tells Core Publisher what to display on the home page.](.gitbook/assets/image%20%288%29.png)
+![This button inserts the &quot;break&quot; that tells Core Publisher what to display on the home page.](.gitbook/assets/image%20%289%29.png)
 
 A little dotted line will appear with the red word "break" underneath it.
 
 Once you've finished with this, go into the "Related Programs" tab underneath your editing box and add KBIA Newscast. You'll know you did it right when the "NID" number appears:
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 At the bottom of the screen, where it asks if you want to send the program through the NPR API, NPR One or the PMP, say yes to all of these. **Do not** say you want to send this post to NPR.org. 
 
